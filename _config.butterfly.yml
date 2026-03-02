@@ -11,7 +11,7 @@ menu:
   关于: /about/ || fas fa-user
 
 social:
-  fab fa-github: "https://github.com/<your-github-username> || GitHub || '#24292e'"
+  fab fa-github: "https://github.com/BlueOfflaner || GitHub || '#24292e'"
   fas fa-envelope: mailto:you@example.com || Email || '#4a7dbe'
 
 favicon: /img/favicon.png
@@ -61,7 +61,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: GitHub
-      link: https://github.com/<your-github-username>
+      link: https://github.com/BlueOfflaner
   card_announcement:
     enable: true
     content: 欢迎订阅，更新会在这里第一时间发布。
@@ -105,7 +105,7 @@ comments:
   card_post_count: true
 
 giscus:
-  repo: "<your-github-username>/<your-repo>"
+  repo: "BlueOfflaner/blog"
   repo_id: "<your_repo_id>"
   category_id: "<your_category_id>"
   light_theme: light

@@ -11,8 +11,8 @@ language: zh-CN
 timezone: America/Los_Angeles
 
 # URL
-url: https://blueofflaner.github.io
-root: /
+url: https://blueofflaner.github.io/blog
+root: /blog/
 permalink: posts/:year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -88,7 +88,7 @@ theme: butterfly
 # Deployment
 deploy:
   type: git
-  repo: https://github.com/<your-github-username>/<your-repo>.git
+  repo: https://github.com/BlueOfflaner/blog.git
   branch: gh-pages
 
 # Search plugin
