@@ -105,7 +105,7 @@ comments:
   card_post_count: true
 
 giscus:
-  repo: "BlueOfflaner/blog"
+  repo: "BlueOfflaner/BlueOfflaner.github.io"
   repo_id: "R_kgDORcq3QQ"
   category_id: "DIC_kwDORcq3Qc4C3i1Q"
   light_theme: light
