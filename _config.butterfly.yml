@@ -84,7 +84,7 @@ aside:
     enable: true
     post_count: true
     last_push_date: true
-    runtime_date: 2026-03-03 00:00:00
+    runtime_date: 2026-03-02 00:00:00
 
 search:
   use: local_search
